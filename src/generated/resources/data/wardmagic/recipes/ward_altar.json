@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aaa",
+    " i ",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:andesite"
+    },
+    "i": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "wardmagic:ward_altar"
+  }
+}

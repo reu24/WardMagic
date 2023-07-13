@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " ds",
+    " se",
+    "s  "
+  ],
+  "key": {
+    "s": {
+      "item": "wardmagic:magical_stick"
+    },
+    "d": {
+      "item": "minecraft:diamond"
+    },
+    "e": {
+      "item": "minecraft:emerald"
+    }
+  },
+  "result": {
+    "item": "wardmagic:ward_wand"
+  }
+}

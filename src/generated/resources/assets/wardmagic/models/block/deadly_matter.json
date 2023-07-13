@@ -1,0 +1,27 @@
+{
+  "ambientocclusion": false,
+  "textures": {
+    "particle": "wardmagic:block/deadly_matter",
+    "ward": "wardmagic:block/deadly_matter"
+  },
+  "elements": [
+    {
+      "from": [
+        0,
+        1,
+        0
+      ],
+      "to": [
+        16,
+        1,
+        16
+      ],
+      "shade": false,
+      "faces": {
+        "up": {
+          "texture": "#ward"
+        }
+      }
+    }
+  ]
+}

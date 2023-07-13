@@ -1,0 +1,56 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "wardmagic:block/ward_altar",
+		"particle": "wardmagic:block/ward_altar"
+	},
+	"elements": [
+		{
+			"name": "feet",
+			"from": [7, 1, 7],
+			"to": [9, 8, 9],
+			"faces": {
+				"north": {"uv": [0, 0, 1, 3.5], "texture": "#0"},
+				"east": {"uv": [0, 0, 1, 3.5], "texture": "#0"},
+				"south": {"uv": [0, 0, 1, 3.5], "texture": "#0"},
+				"west": {"uv": [0, 0, 1, 3.5], "texture": "#0"},
+				"up": {"uv": [11, 1.5, 10, 0.5], "texture": "#0"},
+				"down": {"uv": [11, 1.5, 10, 2.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "table",
+			"from": [3, 8, 3],
+			"to": [13, 11, 13],
+			"faces": {
+				"north": {"uv": [0, 0, 5, 1.5], "texture": "#0"},
+				"east": {"uv": [0, 0, 5, 1.5], "texture": "#0"},
+				"south": {"uv": [0, 0, 5, 1.5], "texture": "#0"},
+				"west": {"uv": [0, 0, 5, 1.5], "texture": "#0"},
+				"up": {"uv": [5, 5, 0, 0], "texture": "#0"},
+				"down": {"uv": [5, 0, 0, 5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "down",
+			"from": [5, 0, 6],
+			"to": [11, 1, 10],
+			"faces": {
+				"north": {"uv": [0, 0, 3, 0.5], "texture": "#0"},
+				"east": {"uv": [0, 0, 2, 0.5], "texture": "#0"},
+				"south": {"uv": [0, 0, 3, 0.5], "texture": "#0"},
+				"west": {"uv": [0, 0, 2, 0.5], "texture": "#0"},
+				"up": {"uv": [3, 2, 0, 0], "texture": "#0"},
+				"down": {"uv": [3, 0, 0, 2], "texture": "#0"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "VoxelShapes",
+			"origin": [8, 8, 8],
+			"children": [0, 1, 2]
+		}
+	]
+}

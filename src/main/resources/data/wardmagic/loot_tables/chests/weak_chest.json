@@ -1,0 +1,69 @@
+{
+  "pools":[
+    {
+      "rolls": {
+        "min": 4.0,
+        "max": 5.0,
+        "type": "minecraft:uniform"
+      },
+      "entries":[
+        {
+          "type":"item",
+          "name":"minecraft:iron_ingot",
+          "weight":1,
+          "functions":[
+            {
+              "function":"set_count",
+              "count":{
+                "min":1,
+                "max":2
+              }
+            }
+          ]
+        },
+        {
+          "type":"item",
+          "name":"minecraft:iron_nugget",
+          "weight":2,
+          "functions":[
+            {
+              "function":"set_count",
+              "count":{
+                "min":3,
+                "max":6
+              }
+            }
+          ]
+        },
+        {
+          "type":"item",
+          "name":"minecraft:emerald",
+          "weight":2,
+          "functions":[
+            {
+              "function":"set_count",
+              "count":{
+                "min":1,
+                "max":2
+              }
+            }
+          ]
+        },
+        {
+          "type":"item",
+          "name":"wardmagic:chalk",
+          "weight":1,
+          "functions":[
+            {
+              "function":"set_count",
+              "count":{
+                "min":1,
+                "max":1
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

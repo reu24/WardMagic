@@ -1,0 +1,28 @@
+{
+  "ambientocclusion": false,
+  "textures": {
+    "particle": "wardmagic:block/ward_block_8",
+    "ward": "wardmagic:block/ward_block_8"
+  },
+  "elements": [
+    {
+      "from": [
+        0,
+        0,
+        1
+      ],
+      "to": [
+        16,
+        16,
+        1
+      ],
+      "shade": false,
+      "faces": {
+        "south": {
+          "texture": "#ward",
+          "tintindex": 0
+        }
+      }
+    }
+  ]
+}

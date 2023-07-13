@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " p ",
+    " p ",
+    " s "
+  ],
+  "key": {
+    "s": {
+      "item": "wardmagic:magical_stick"
+    },
+    "p": {
+      "item": "wardmagic:magical_planks"
+    }
+  },
+  "result": {
+    "item": "wardmagic:magical_sword"
+  }
+}

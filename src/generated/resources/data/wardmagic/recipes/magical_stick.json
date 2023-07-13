@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "w",
+    "w"
+  ],
+  "key": {
+    "w": {
+      "item": "wardmagic:magical_planks"
+    }
+  },
+  "result": {
+    "item": "wardmagic:magical_stick",
+    "count": 4
+  }
+}

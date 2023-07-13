@@ -1,0 +1,33 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "wardmagic:item/mana_holder0"
+  },
+  "overrides": [
+    {
+      "predicate":  {
+        "wardmagic:mana": 0
+      }, "model":  "wardmagic:item/mana_holder0"
+    },
+    {
+      "predicate":  {
+        "wardmagic:mana": 1
+      }, "model":  "wardmagic:item/mana_holder1"
+    },
+    {
+      "predicate":  {
+        "wardmagic:mana": 2
+      }, "model":  "wardmagic:item/mana_holder2"
+    },
+    {
+      "predicate":  {
+        "wardmagic:mana": 3
+      }, "model":  "wardmagic:item/mana_holder3"
+    },
+    {
+      "predicate":  {
+        "wardmagic:mana": 4
+      }, "model":  "wardmagic:item/mana_holder4"
+    }
+  ]
+}

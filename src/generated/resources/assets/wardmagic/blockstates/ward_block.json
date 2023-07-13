@@ -1,0 +1,202 @@
+{
+  "variants": {
+    "facing=down,ward_id=0": {
+      "model": "wardmagic:block/ward_block_down_0"
+    },
+    "facing=up,ward_id=0": {
+      "model": "wardmagic:block/ward_block_up_0"
+    },
+    "facing=north,ward_id=0": {
+      "model": "wardmagic:block/ward_block_north_0"
+    },
+    "facing=south,ward_id=0": {
+      "model": "wardmagic:block/ward_block_south_0"
+    },
+    "facing=west,ward_id=0": {
+      "model": "wardmagic:block/ward_block_west_0"
+    },
+    "facing=east,ward_id=0": {
+      "model": "wardmagic:block/ward_block_east_0"
+    },
+    "facing=down,ward_id=1": {
+      "model": "wardmagic:block/ward_block_down_1"
+    },
+    "facing=up,ward_id=1": {
+      "model": "wardmagic:block/ward_block_up_1"
+    },
+    "facing=north,ward_id=1": {
+      "model": "wardmagic:block/ward_block_north_1"
+    },
+    "facing=south,ward_id=1": {
+      "model": "wardmagic:block/ward_block_south_1"
+    },
+    "facing=west,ward_id=1": {
+      "model": "wardmagic:block/ward_block_west_1"
+    },
+    "facing=east,ward_id=1": {
+      "model": "wardmagic:block/ward_block_east_1"
+    },
+    "facing=down,ward_id=2": {
+      "model": "wardmagic:block/ward_block_down_2"
+    },
+    "facing=up,ward_id=2": {
+      "model": "wardmagic:block/ward_block_up_2"
+    },
+    "facing=north,ward_id=2": {
+      "model": "wardmagic:block/ward_block_north_2"
+    },
+    "facing=south,ward_id=2": {
+      "model": "wardmagic:block/ward_block_south_2"
+    },
+    "facing=west,ward_id=2": {
+      "model": "wardmagic:block/ward_block_west_2"
+    },
+    "facing=east,ward_id=2": {
+      "model": "wardmagic:block/ward_block_east_2"
+    },
+    "facing=down,ward_id=3": {
+      "model": "wardmagic:block/ward_block_down_3"
+    },
+    "facing=up,ward_id=3": {
+      "model": "wardmagic:block/ward_block_up_3"
+    },
+    "facing=north,ward_id=3": {
+      "model": "wardmagic:block/ward_block_north_3"
+    },
+    "facing=south,ward_id=3": {
+      "model": "wardmagic:block/ward_block_south_3"
+    },
+    "facing=west,ward_id=3": {
+      "model": "wardmagic:block/ward_block_west_3"
+    },
+    "facing=east,ward_id=3": {
+      "model": "wardmagic:block/ward_block_east_3"
+    },
+    "facing=down,ward_id=4": {
+      "model": "wardmagic:block/ward_block_down_4"
+    },
+    "facing=up,ward_id=4": {
+      "model": "wardmagic:block/ward_block_up_4"
+    },
+    "facing=north,ward_id=4": {
+      "model": "wardmagic:block/ward_block_north_4"
+    },
+    "facing=south,ward_id=4": {
+      "model": "wardmagic:block/ward_block_south_4"
+    },
+    "facing=west,ward_id=4": {
+      "model": "wardmagic:block/ward_block_west_4"
+    },
+    "facing=east,ward_id=4": {
+      "model": "wardmagic:block/ward_block_east_4"
+    },
+    "facing=down,ward_id=5": {
+      "model": "wardmagic:block/ward_block_down_5"
+    },
+    "facing=up,ward_id=5": {
+      "model": "wardmagic:block/ward_block_up_5"
+    },
+    "facing=north,ward_id=5": {
+      "model": "wardmagic:block/ward_block_north_5"
+    },
+    "facing=south,ward_id=5": {
+      "model": "wardmagic:block/ward_block_south_5"
+    },
+    "facing=west,ward_id=5": {
+      "model": "wardmagic:block/ward_block_west_5"
+    },
+    "facing=east,ward_id=5": {
+      "model": "wardmagic:block/ward_block_east_5"
+    },
+    "facing=down,ward_id=6": {
+      "model": "wardmagic:block/ward_block_down_6"
+    },
+    "facing=up,ward_id=6": {
+      "model": "wardmagic:block/ward_block_up_6"
+    },
+    "facing=north,ward_id=6": {
+      "model": "wardmagic:block/ward_block_north_6"
+    },
+    "facing=south,ward_id=6": {
+      "model": "wardmagic:block/ward_block_south_6"
+    },
+    "facing=west,ward_id=6": {
+      "model": "wardmagic:block/ward_block_west_6"
+    },
+    "facing=east,ward_id=6": {
+      "model": "wardmagic:block/ward_block_east_6"
+    },
+    "facing=down,ward_id=7": {
+      "model": "wardmagic:block/ward_block_down_7"
+    },
+    "facing=up,ward_id=7": {
+      "model": "wardmagic:block/ward_block_up_7"
+    },
+    "facing=north,ward_id=7": {
+      "model": "wardmagic:block/ward_block_north_7"
+    },
+    "facing=south,ward_id=7": {
+      "model": "wardmagic:block/ward_block_south_7"
+    },
+    "facing=west,ward_id=7": {
+      "model": "wardmagic:block/ward_block_west_7"
+    },
+    "facing=east,ward_id=7": {
+      "model": "wardmagic:block/ward_block_east_7"
+    },
+    "facing=down,ward_id=8": {
+      "model": "wardmagic:block/ward_block_down_8"
+    },
+    "facing=up,ward_id=8": {
+      "model": "wardmagic:block/ward_block_up_8"
+    },
+    "facing=north,ward_id=8": {
+      "model": "wardmagic:block/ward_block_north_8"
+    },
+    "facing=south,ward_id=8": {
+      "model": "wardmagic:block/ward_block_south_8"
+    },
+    "facing=west,ward_id=8": {
+      "model": "wardmagic:block/ward_block_west_8"
+    },
+    "facing=east,ward_id=8": {
+      "model": "wardmagic:block/ward_block_east_8"
+    },
+    "facing=down,ward_id=9": {
+      "model": "wardmagic:block/ward_block_down_9"
+    },
+    "facing=up,ward_id=9": {
+      "model": "wardmagic:block/ward_block_up_9"
+    },
+    "facing=north,ward_id=9": {
+      "model": "wardmagic:block/ward_block_north_9"
+    },
+    "facing=south,ward_id=9": {
+      "model": "wardmagic:block/ward_block_south_9"
+    },
+    "facing=west,ward_id=9": {
+      "model": "wardmagic:block/ward_block_west_9"
+    },
+    "facing=east,ward_id=9": {
+      "model": "wardmagic:block/ward_block_east_9"
+    },
+    "facing=down,ward_id=10": {
+      "model": "wardmagic:block/ward_block_down_10"
+    },
+    "facing=up,ward_id=10": {
+      "model": "wardmagic:block/ward_block_up_10"
+    },
+    "facing=north,ward_id=10": {
+      "model": "wardmagic:block/ward_block_north_10"
+    },
+    "facing=south,ward_id=10": {
+      "model": "wardmagic:block/ward_block_south_10"
+    },
+    "facing=west,ward_id=10": {
+      "model": "wardmagic:block/ward_block_west_10"
+    },
+    "facing=east,ward_id=10": {
+      "model": "wardmagic:block/ward_block_east_10"
+    }
+  }
+}

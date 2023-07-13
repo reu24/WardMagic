@@ -1,0 +1,8 @@
+{
+	"variants": {
+		"facing=west": {"model": "wardmagic:block/ward_altar"},
+		"facing=east": {"model": "wardmagic:block/ward_altar", "y": 180},
+		"facing=south": {"model": "wardmagic:block/ward_altar", "y": 270},
+		"facing=north": {"model": "wardmagic:block/ward_altar", "y": 90}
+	}
+}

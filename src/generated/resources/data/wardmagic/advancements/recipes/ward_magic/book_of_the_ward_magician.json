@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "wardmagic:book_of_the_ward_magician"
+    ]
+  },
+  "criteria": {
+    "has_magical_planks": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "wardmagic:magical_planks"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "wardmagic:book_of_the_ward_magician"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_magical_planks",
+      "has_the_recipe"
+    ]
+  ]
+}

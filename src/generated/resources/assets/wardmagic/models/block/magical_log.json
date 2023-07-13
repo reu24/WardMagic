@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "side": "wardmagic:block/magical_log",
+    "end": "wardmagic:block/magical_log_top"
+  }
+}

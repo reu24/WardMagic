@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ppp",
+    "pbp",
+    "ppp"
+  ],
+  "key": {
+    "b": {
+      "item": "minecraft:book"
+    },
+    "p": {
+      "item": "wardmagic:magical_planks"
+    }
+  },
+  "result": {
+    "item": "wardmagic:book_of_the_ward_magician"
+  }
+}

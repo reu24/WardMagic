@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "wardmagic:item/book_of_the_ward_magician"
+  }
+}

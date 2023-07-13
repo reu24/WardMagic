@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "wardmagic:magical_log"
+    }
+  ],
+  "result": {
+    "item": "wardmagic:magical_planks",
+    "count": 4
+  }
+}

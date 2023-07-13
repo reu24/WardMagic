@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "crack_state=1": {
+      "model": "wardmagic:block/crack_stone_1"
+    },
+    "crack_state=2": {
+      "model": "wardmagic:block/crack_stone_2"
+    },
+    "crack_state=3": {
+      "model": "wardmagic:block/crack_stone_3"
+    }
+  }
+}
